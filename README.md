@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sonam-chosphel
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my projects
-- 📫 How to reach me Sonam Chosphel
+  
   
   
 
